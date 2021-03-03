@@ -25,6 +25,17 @@
             "while",
             "while.json"
           ]
+<<<<<<< Updated upstream
+=======
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "for",
+            "for.json"
+          ]
+>>>>>>> Stashed changes
         }
       ],
       "configxml": null,

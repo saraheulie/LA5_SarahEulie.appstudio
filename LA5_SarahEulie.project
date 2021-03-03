@@ -25,8 +25,6 @@
             "while",
             "while.json"
           ]
-<<<<<<< Updated upstream
-=======
         },
         {
           "!type": "External",
@@ -35,7 +33,6 @@
             "for",
             "for.json"
           ]
->>>>>>> Stashed changes
         }
       ],
       "configxml": null,
